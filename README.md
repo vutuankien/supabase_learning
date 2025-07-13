@@ -1,8 +1,16 @@
-# React & Supabase Dashboard
+<h1 align="center">Login with Google using Supabase</h1>
 
+<p align="center">
 A modern, full-stack web application built with React, Vite, and Supabase. This project demonstrates a complete user authentication system (email/password, social logins) and a feature-rich dashboard for managing user data, styled with Tailwind CSS and Ant Design.
+</p>
 
-_(Replace this with a screenshot of your application's dashboard)_
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 ---
 
